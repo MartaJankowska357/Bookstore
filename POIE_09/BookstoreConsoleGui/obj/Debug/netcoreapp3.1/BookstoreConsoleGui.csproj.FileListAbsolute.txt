@@ -1,0 +1,16 @@
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.csprojAssemblyReference.cache
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.AssemblyInfoInputs.cache
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.AssemblyInfo.cs
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.csproj.CoreCompileInputs.cache
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreConsoleGui.exe
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreConsoleGui.deps.json
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreConsoleGui.runtimeconfig.json
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreConsoleGui.runtimeconfig.dev.json
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreConsoleGui.dll
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreConsoleGui.pdb
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreModel.dll
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp3.1\BookstoreModel.pdb
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.csproj.CopyComplete
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.dll
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.pdb
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp3.1\BookstoreConsoleGui.genruntimeconfig.cache

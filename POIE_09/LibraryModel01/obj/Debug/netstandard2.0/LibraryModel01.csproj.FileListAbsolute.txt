@@ -1,0 +1,8 @@
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\LibraryModel01.deps.json
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\LibraryModel01.dll
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\LibraryModel01.pdb
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\LibraryModel01.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\LibraryModel01.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\LibraryModel01.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\LibraryModel01.dll
+C:\Users\WZIM_67\Desktop\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\LibraryModel01.pdb

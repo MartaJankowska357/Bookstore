@@ -1,0 +1,9 @@
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\bin\Debug\WYK_PO_IE_6_ABSTRACT.exe.config
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\bin\Debug\WYK_PO_IE_6_ABSTRACT.exe
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\bin\Debug\WYK_PO_IE_6_ABSTRACT.pdb
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\obj\Debug\WYK_PO_IE_6_ABSTRACT.csprojResolveAssemblyReference.cache
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\obj\Debug\WYK_PO_IE_6_ABSTRACT.Form1.resources
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\obj\Debug\WYK_PO_IE_6_ABSTRACT.Properties.Resources.resources
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\obj\Debug\WYK_PO_IE_6_ABSTRACT.csproj.GenerateResource.Cache
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\obj\Debug\WYK_PO_IE_6_ABSTRACT.exe
+D:\visual studio 2012\Projects\WYK_PO_IE_6_ABSTRACT\WYK_PO_IE_6_ABSTRACT\obj\Debug\WYK_PO_IE_6_ABSTRACT.pdb

@@ -1,0 +1,62 @@
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.deps.json
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csprojAssemblyReference.cache
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfoInputs.cache
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfo.cs
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CoreCompileInputs.cache
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\maciek\Downloads\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.deps.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.deps.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.deps.json
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CopyComplete
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.deps.json
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CopyComplete
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.deps.json
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\BookstoreModel.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\bin\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.AssemblyInfo.cs
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.csproj.CopyComplete
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\LibraryModel01\obj\Debug\netstandard2.0\BookstoreModel.pdb

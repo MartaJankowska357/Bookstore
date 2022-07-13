@@ -1,0 +1,77 @@
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.deps.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.dev.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CopyComplete
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.deps.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.dev.json
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CopyComplete
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_07_ABSTRACT - Zadanie domowe\POIE_07_ABSTRACT\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.deps.json
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.json
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.dev.json
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CopyComplete
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\RepositoryLibrary.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.deps.json
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.json
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.dev.json
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\RepositoryLibrary.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CopyComplete
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.deps.json
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.json
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.runtimeconfig.dev.json
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\RepositoryLibrary.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\BookstoreModel.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\bin\Debug\netcoreapp2.2\RepositoryLibrary.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.AssemblyInfo.cs
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.csproj.CopyComplete
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\BookstoreConsoleGui\obj\Debug\netcoreapp2.2\BookstoreConsoleGui.genruntimeconfig.cache

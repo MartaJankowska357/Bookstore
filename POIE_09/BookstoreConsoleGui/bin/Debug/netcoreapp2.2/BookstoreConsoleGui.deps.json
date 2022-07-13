@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "BookstoreConsoleGui/1.0.0": {
+        "dependencies": {
+          "BookstoreModel": "1.0.0",
+          "RepositoryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BookstoreConsoleGui.dll": {}
+        }
+      },
+      "BookstoreModel/1.0.0": {
+        "dependencies": {
+          "RepositoryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BookstoreModel.dll": {}
+        }
+      },
+      "RepositoryLibrary/1.0.0": {
+        "runtime": {
+          "RepositoryLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookstoreConsoleGui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookstoreModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

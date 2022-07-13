@@ -1,0 +1,40 @@
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.deps.json
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_08 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.deps.json
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.csprojAssemblyReference.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.AssemblyInfoInputs.cache
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.AssemblyInfo.cs
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\WZIM_67\Desktop\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.deps.json
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.pdb
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\Accessibility.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\Accessibility.xml
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\User\Desktop\Marta\Studia\Programowanie obiektowe\POIE_09 - Rozwiazanie\POIE_09 - Rozwiazanie\RepositoryLibrary\obj\Debug\netstandard2.0\RepositoryLibrary.csproj.CopyComplete
